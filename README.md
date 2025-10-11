@@ -1,1 +1,3 @@
 # Paradgimas
+
+--parte 1
