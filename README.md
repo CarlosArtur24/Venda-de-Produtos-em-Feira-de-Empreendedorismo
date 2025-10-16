@@ -72,7 +72,7 @@ npm start
 
 👤 3. Iniciar o frontend do Cliente (porta 3000)
 
-cd ../client
+cd ../cliente
 npm install
 npm run dev -- --port 3000
 # Cliente acessa http://localhost:3000
@@ -80,7 +80,7 @@ npm run dev -- --port 3000
 
 🧑‍💼 4. Iniciar o frontend do Vendedor/Admin (porta 3002)
 
-cd ../vendor
+cd ../vendedor
 npm install
 npm run dev -- --port 3002
 # Vendedor acessa http://localhost:3002
