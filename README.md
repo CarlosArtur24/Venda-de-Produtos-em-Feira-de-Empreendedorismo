@@ -60,7 +60,7 @@ feira-eventos/
 
 ```bash
 git clone https://github.com/CarlosArtur24/feira-eventos.git
-cd feira-eventos
+cd Paradigmas
 
 🖥️ 2. Iniciar o servidor (porta 4000)
 
