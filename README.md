@@ -59,7 +59,7 @@ feira-eventos/
 ### 🧭 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/CarlosArtur24/feira-eventos.git
+git clone https://github.com/CarlosArtur24/Venda-de-Produtos-em-Feira-de-Empreendedorismo.git
 cd Paradigmas
 
 🖥️ 2. Iniciar o servidor (porta 4000)
